@@ -11,7 +11,7 @@
 Буду рада принять участие в интересных проектах, обогащая свой профессиональный опыт и внося свой вклад в развитие проектов!
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ktsmsnv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ktsmsnv) [![Mail Badge](https://img.shields.io/badge/e-mail-mail?logoColor=yellow&color=yellow
+-  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-ktsmsnv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ktsmsnv) [![Mail Badge](https://img.shields.io/badge/e-mail-mail?logoColor=yellow&color=yellow
 )](mailto:ktsmsnv@yandex.ru)
 
 ---
