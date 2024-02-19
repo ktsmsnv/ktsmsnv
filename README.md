@@ -44,9 +44,7 @@
 
 ---
 
-### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/ktsmsnv/badges/large)
 
 ### ⚙️ GitHub статистика:
 
