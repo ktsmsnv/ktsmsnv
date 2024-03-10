@@ -1,6 +1,3 @@
-
-# Привет, меня зовут Екатерина!
-
 ---
 
 ### Обо мне:
@@ -31,6 +28,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktsmsnv&layout=compact)](https://github.com/ktsmsnv/github-readme-stats)
 
 ---
 
