@@ -42,6 +42,13 @@
 
 ---
 
+### 💻 Проекты:
+
+1) Университетские проекты: https://github.com/stars/ktsmsnv/lists/university-projects
+2) Рабочие проекты: https://github.com/stars/ktsmsnv/lists/work-projects
+3) Пет проекты: https://github.com/stars/ktsmsnv/lists/pet-projects
+
+---
 ### 🤝 Социальные сети:
 
   <div id="badges">
